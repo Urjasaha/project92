@@ -1,0 +1,67 @@
+body {
+
+	background-color: rgb(182, 121, 218);
+}
+
+	.login_div1 , .login_div2 {
+	
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+#player1_name_input {
+    border-radius:250px;
+    border-width: 5px;
+}
+
+#player2_name_input {
+    border-radius:250px;
+    border-width: 5px;
+}
+
+
+#heading {
+	font-family: 'Quicksand', sans-serif;
+}
+
+#button1 {
+    background-color:rgb(139, 80, 139);
+}
+
+#user1 {
+	font-family: 'Chela One', cursive;
+font-family: 'Quicksand', sans-serif;
+}
+
+#user2 {
+    font-family: 'Chela One', cursive;
+font-family: 'Quicksand', sans-serif;
+}
+
+#myNavbar {
+	background-color: rgba(109, 104, 104, 0.5);
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#output {
+
+background:rgb(236, 203, 245);
+border-radius: 10px;
+border-top: 10px solid #aa449c;
+padding: 10px;
+float: none;
+text-align:left;
+border:2px solid black ;
+border-bottom:10px;
+}
+
+#Send {
+background-color: #aa449c;
+}
